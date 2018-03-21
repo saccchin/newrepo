@@ -1,3 +1,6 @@
 [submodule "newrepo"]
 	path = newrepo
 	url = https://github.com/saccchin/newrepo.git
+[submodule "newsubrepo"]
+	path = newsubrepo
+	url = https://github.com/saccchin/newrepo.git
